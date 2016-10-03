@@ -2,9 +2,7 @@
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Threading.Tasks;
-using Cirrious.MvvmCross.ViewModels;
 using MvvmCross.Plugins.Messenger;
-using MyHealth.Client.Core.Helpers;
 using MyHealth.Client.Core.Messages;
 using MyHealth.Client.Core.Model;
 using MyHealth.Client.Core.ServiceAgents;

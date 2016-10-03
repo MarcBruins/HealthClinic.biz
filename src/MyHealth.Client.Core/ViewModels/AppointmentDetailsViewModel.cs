@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Cirrious.MvvmCross.ViewModels;
+﻿using System.Threading.Tasks;
 using MvvmCross.Plugins.Messenger;
 using MyHealth.Client.Core.Model;
 using MyHealth.Client.Core.ServiceAgents;
 using System.Globalization;
+using MvvmCross.Core.ViewModels;
 
 namespace MyHealth.Client.Core.ViewModels
 {

@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Threading.Tasks;
-using Cirrious.MvvmCross.ViewModels;
 using MvvmCross.Plugins.Messenger;
 using MyHealth.Client.Core.Model;
 using MyHealth.Client.Core.ServiceAgents;
 using MyHealth.Client.Core.Extensions;
 using System.Globalization;
 using MyHealth.Client.Core.Services;
+using MvvmCross.Core.ViewModels;
 
 namespace MyHealth.Client.Core
 {

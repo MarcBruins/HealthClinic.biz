@@ -2,9 +2,6 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using MyHealth.Client.Core.ViewModels;
-using Cirrious.MvvmCross.Binding.Droid.BindingContext;
-using Cirrious.MvvmCross.Droid.Support.Fragging;
-using Cirrious.MvvmCross.Droid.Support.Fragging.Fragments;
 using Android.Widget;
 using Android.Graphics;
 using Android.Views.Animations;
@@ -13,7 +10,7 @@ using MyHealth.Client.Droid.Extensions;
 
 namespace MyHealth.Client.Droid.Views
 {
-    [MvxOwnedViewModelFragment]
+    [MvxFragment]
     [Register("myhealth.client.droid.views.HomeFragment")]
     public class HomeFragment : MvxFragment<HomeViewModel>
     {

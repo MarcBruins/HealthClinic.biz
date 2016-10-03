@@ -1,12 +1,7 @@
-using Cirrious.CrossCore;
-using Cirrious.MvvmCross.ViewModels;
 using MvvmCross.Plugins.Messenger;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Input;
+using MvvmCross.Core.ViewModels;
+using MvvmCross.Platform;
 
 namespace MyHealth.Client.Core.ViewModels
 {

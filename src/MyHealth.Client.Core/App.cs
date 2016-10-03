@@ -1,10 +1,11 @@
-using Cirrious.CrossCore.IoC;
+using MvvmCross.Core.ViewModels;
+using MvvmCross.Platform;
+using MvvmCross.Platform.IoC;
 using MyHealth.Client.Core.ServiceAgents;
-using Cirrious.CrossCore;
 
 namespace MyHealth.Client.Core
 {
-    public class App : Cirrious.MvvmCross.ViewModels.MvxApplication
+    public class App : MvxApplication
     {
         public override void Initialize()
         {

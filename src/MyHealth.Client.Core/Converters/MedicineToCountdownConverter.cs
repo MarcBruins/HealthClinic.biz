@@ -1,11 +1,7 @@
-﻿using Cirrious.CrossCore.Converters;
-using MyHealth.Client.Core.Helpers;
+﻿using MyHealth.Client.Core.Helpers;
 using MyHealth.Client.Core.Model;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using MvvmCross.Platform.Converters;
 
 namespace MyHealth.Client.Core.Converters
 {

@@ -1,9 +1,7 @@
 ﻿using System.Linq;
 using System.Threading.Tasks;
-using Cirrious.CrossCore;
 using Microsoft.IdentityModel.Clients.ActiveDirectory;
 using MvvmCross.Plugins.Messenger;
-using MyHealth.Client.Core.Helpers;
 using MyHealth.Client.Core.Messages;
 
 namespace MyHealth.Client.Core.ServiceAgents

@@ -1,4 +1,3 @@
-using Cirrious.MvvmCross.ViewModels;
 using MyHealth.Client.Core.ServiceAgents;
 using MyHealth.Client.Core.Model;
 using System.Linq;
@@ -9,6 +8,7 @@ using System.Collections.ObjectModel;
 using System.Collections.Generic;
 using System.Globalization;
 using MyHealth.Client.Core.Messages;
+using MvvmCross.Core.ViewModels;
 
 namespace MyHealth.Client.Core.ViewModels
 {

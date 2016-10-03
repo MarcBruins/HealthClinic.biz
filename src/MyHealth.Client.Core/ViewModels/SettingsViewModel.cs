@@ -1,10 +1,10 @@
 ﻿using System;
-using Cirrious.MvvmCross.ViewModels;
 using MvvmCross.Plugins.Messenger;
-using Xamarin.Forms;
-using Cirrious.CrossCore;
 using MyHealth.Client.Core.Services;
 using MyHealth.Client.Core.Helpers;
+using MvvmCross.Core.ViewModels;
+using MvvmCross.Platform;
+using Xamarin.Forms;
 
 namespace MyHealth.Client.Core.ViewModels
 {

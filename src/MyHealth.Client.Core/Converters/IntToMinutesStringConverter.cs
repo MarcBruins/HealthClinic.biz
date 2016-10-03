@@ -1,6 +1,5 @@
 ﻿using System;
-using Cirrious.CrossCore.Converters;
-
+using MvvmCross.Platform.Converters;
 
 namespace MyHealth.Client.Core
 {

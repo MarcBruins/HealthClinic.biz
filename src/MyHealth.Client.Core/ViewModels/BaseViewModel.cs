@@ -1,7 +1,7 @@
 ﻿using System;
-using Cirrious.MvvmCross.ViewModels;
 using MvvmCross.Plugins.Messenger;
 using System.Threading.Tasks;
+using MvvmCross.Core.ViewModels;
 
 namespace MyHealth.Client.Core
 {

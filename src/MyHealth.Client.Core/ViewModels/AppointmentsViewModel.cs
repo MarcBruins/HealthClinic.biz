@@ -6,9 +6,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Threading.Tasks;
-using Cirrious.MvvmCross.ViewModels;
 using System.Globalization;
-using Cirrious.CrossCore;
+using MvvmCross.Core.ViewModels;
+using MvvmCross.Platform;
 
 namespace MyHealth.Client.Core.ViewModels
 {

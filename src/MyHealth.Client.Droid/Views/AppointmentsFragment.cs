@@ -9,7 +9,6 @@ using MyHealth.Client.Droid.Extensions;
 
 namespace MyHealth.Client.Droid.Views
 {
-    [MvxOwnedViewModelFragment]
     [Register("myhealth.client.droid.views.AppointmentsFragment")]
     public class AppointmentsFragment : MvxFragment<AppointmentsViewModel>
     {

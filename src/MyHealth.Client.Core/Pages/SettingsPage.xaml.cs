@@ -1,8 +1,5 @@
-﻿using Cirrious.CrossCore;
+﻿using MvvmCross.Platform;
 using MyHealth.Client.Core.ViewModels;
-using System;
-using System.Collections.Generic;
-
 using Xamarin.Forms;
 
 namespace MyHealth.Client.Core
